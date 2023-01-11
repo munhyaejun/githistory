@@ -2,5 +2,5 @@
 
 void main()
 {
-  printf("I am from repository!!");
+  printf("I am from repository.");
 }
